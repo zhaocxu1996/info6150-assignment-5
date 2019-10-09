@@ -1,3 +1,4 @@
+// Reference: mainly from the lecture slides of INFO 6205, prof Robin's Java code
 class QuickSort{
     constructor(){
       //empty body
