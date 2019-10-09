@@ -3,7 +3,10 @@ class StringReverse {
   constructor(){
     //empty body
   }
-
+  /**
+   * 
+   * @param {str} p - string need to be reversed 
+   */
   reverseString(str) {
     //init an char array to contain the reversed string
     let charArray = new Array(str.length);

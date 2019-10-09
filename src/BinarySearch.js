@@ -3,7 +3,13 @@ class BinarySearch {
     constructor(){
       //empty body
     }
-  
+    /**
+     * 
+     * @param {arr} p - array 
+     * @param {from} p - start index
+     * @param {to} p - end index
+     * @param {value} p - target to search 
+     */  
     binarySearch(arr, start, end, target) {        
       // Stop Condtion 
       if (start > end) {

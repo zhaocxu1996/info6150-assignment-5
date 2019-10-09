@@ -3,7 +3,10 @@ class QuickSort{
     constructor(){
       //empty body
     }
-  
+    /**
+     * 
+     * @param {arr} p - unsorted array 
+     */
     quickSort(arr) {
       //if arr only contains one or less element, return itself
       if (arr.length <= 1) { 
